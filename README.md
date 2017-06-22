@@ -1,2 +1,3 @@
 # pydev
-Curso de python 
+Curso de python
+Primera version de Python 2.7
